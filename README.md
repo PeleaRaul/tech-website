@@ -63,7 +63,7 @@ If you’re an admin, the admin panel allows you to:
 
 To run locally:
 
-1. Aquire a license from: pelearauldaniel@gmail.com or Contact@pelearaul.ro
+1. Aquire a license from: pelea.cl.raul@student.utcluj.ro
 
 ## 🚀 Project Status & Attribution
 
