@@ -1,6 +1,6 @@
 # 🔐 Security Policy
 
-I take security seriously at **pelearaul.ro**. Please read below to understand which versions are currently maintained and how you can report any vulnerabilities or security concerns.
+I take security seriously. Please read below to understand which versions are currently maintained and how you can report any vulnerabilities or security concerns.
 
 ---
 
